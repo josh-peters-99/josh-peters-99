@@ -1,4 +1,6 @@
-## Hi there 👋
+## Joshua Peters 👋
+
+**`Software Engineer`**
 
 <!--
 **josh-peters-99/josh-peters-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
