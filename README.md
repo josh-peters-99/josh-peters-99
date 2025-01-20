@@ -1,4 +1,4 @@
-## Joshua Peters 👋
+## Joshua Peters
 
 I am a passionate full-stack engineer with a strong enthusiasm for creating innovative applications and solving complex problems. Currently, I am nearing the completion of my Bachelor's degree in Computer Science, with an emphasis in full-stack web development, and actively working toward earning my AWS Solutions Architect certification.
 
