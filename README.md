@@ -1,8 +1,8 @@
 ## Joshua Peters
 
-I am a passionate full-stack engineer with a strong enthusiasm for creating innovative applications and solving complex problems. Currently, I am nearing the completion of my Bachelor's degree in Computer Science, with an emphasis in full-stack web development, and actively working toward earning my AWS Solutions Architect certification.
+I am a passionate full-stack engineer with a strong enthusiasm for creating innovative applications and solving complex problems. Currently, I am nearing the completion of my Bachelor's degree in Computer Science, with an emphasis in full-stack web development.
 
-My expertise spans a variety of modern technologies, including React.js, Next.js, Vite, and Spring Boot, along with hands-on experience working with databases such as MongoDB and PostgreSQL. I thrive in building efficient, scalable, and user-friendly solutions, continually expanding my skillset to keep pace with the latest advancements in software development.
+My expertise spans a variety of modern technologies, including React.js, Next.js, and Vite, along with hands-on experience working with databases such as MongoDB and PostgreSQL. I thrive in building efficient, scalable, and user-friendly solutions, continually expanding my skillset to keep pace with the latest advancements in software development.
 
 ---
 
