@@ -1,7 +1,5 @@
 ## Joshua Peters
 
----
-
 ### Languages and Tools
 
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
