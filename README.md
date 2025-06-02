@@ -1,7 +1,5 @@
 ## Joshua Peters
 
-I am a passionate full-stack engineer with a strong enthusiasm for creating innovative applications and solving complex problems. My expertise spans a variety of modern technologies, including React.js, Next.js, and Vite, along with hands-on experience working with databases such as MongoDB. I thrive in building efficient, scalable, and user-friendly solutions, continually expanding my skillset to keep pace with the latest advancements in software development.
-
 ---
 
 ### Languages and Tools
